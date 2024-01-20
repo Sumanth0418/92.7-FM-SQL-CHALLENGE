@@ -1,9 +1,9 @@
 # 92.7 BIG FM Radio Network Database Analysis
 
-##Description:
-This repository contains SQL queries and analysis of the 92.7 BIG FM radio network database. 
+## Description:
+- This repository contains SQL queries and analysis of the 92.7 BIG FM radio network database. 
 
-##**Tables** :
+## **Tables** :
 
 Stations
 
@@ -19,7 +19,7 @@ Awards
 
 online presence
 
-##**Questions** :
+## **Questions** :
 
 - 1)Retrieve all stations in the "East" region?.
 - 2)List all shows hosted by "Vrajesh Hirjee"?.
